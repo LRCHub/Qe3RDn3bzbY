@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "にんげんっていいな",
+  "base_artist": "柏木玲／ヤング・フレッシュ",
+  "createdAt": "2026-03-24T15:52:17.006232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "にんげんっていいな",
+      "artist": "ガガガDX",
+      "has_synced": true,
+      "path": "select/01_にんげんっていいな_ガガガDX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "にんげんっていいな",
+      "artist": "柏木玲/ヤング・フレッシュ",
+      "has_synced": false,
+      "path": "select/pl_01_にんげんっていいな_柏木玲_ヤング・フレッシュ.txt"
+    }
+  ]
+}
